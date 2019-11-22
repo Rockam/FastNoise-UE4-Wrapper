@@ -45,7 +45,7 @@ UENUM(BlueprintType) enum class EFastNoise_CellularReturnType		: uint8 { CellVal
  * UE4 Wrapper for Auburns's FastNoise library, also available for blueprints usage
  */
 UCLASS(BlueprintType)
-class PROCEDURALGENERATION_API UFastNoiseWrapper : public UObject
+class PROJECT_API UFastNoiseWrapper : public UObject
 {
 	GENERATED_BODY()
 

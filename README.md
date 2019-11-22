@@ -6,6 +6,8 @@ An implementation for UE4 was already done by midgen, it's called [UnrealFastNoi
 
 ## Usage
 
+The most important part when compiling the wrapper into your UE4 project is replacing **PROJECT_API** on **FastNoiseWrapper.h** with your project's one.
+
 ### Blueprints
 
 The wrapper offers blueprint nodes for complete usage. The first step would be to create a variable of **FastNoiseWrapper** type, then setup it and finally getting a 2D/3D value of noise. Blueprint nodes can be seen below: 
