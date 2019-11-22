@@ -8,7 +8,7 @@ An implementation for UE4 was already done by midgen, it's called [UnrealFastNoi
 
 ### Blueprints
 
-The wrapper offers blueprint nodes for complete usage. The first step would be to create a variable of type **FastNoiseWrapper**, then setup it and and finally getting a 2D/3D value of noise. Blueprint nodes can be seen below: 
+The wrapper offers blueprint nodes for complete usage. The first step would be to create a variable of **FastNoiseWrapper** type, then setup it and finally getting a 2D/3D value of noise. Blueprint nodes can be seen below: 
 
 ![FastNoise wrapper blueprint nodes](https://github.com/Rockam/FastNoise-UE4-Wrapper/blob/master/Blueprint_nodes.JPG "FastNoise wrapper blueprint nodes")
 
