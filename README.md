@@ -1,6 +1,6 @@
 # FastNoise UE4 Wrapper
 
-Unreal Engine 4 intuitive, well-documented and blueprint-friendly noise generation library coded on C++. It uses [Auburns's FastNoise library](https://github.com/Auburns/FastNoise).
+Unreal Engine 4 intuitive, open source and blueprint-friendly noise generation library coded on C++. It uses [Auburns's FastNoise library](https://github.com/Auburns/FastNoise).
 
 An implementation for UE4 was already done by midgen, it's called [UnrealFastNoise](https://github.com/midgen/UnrealFastNoise).
 
