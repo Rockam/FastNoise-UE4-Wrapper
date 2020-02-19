@@ -12,7 +12,7 @@ The most important part when compiling the wrapper into your UE4 project is repl
 
 The wrapper offers blueprint nodes for complete usage. The first step would be to create a variable of **FastNoiseWrapper** type, then setup it and finally getting a 2D/3D value of noise. Blueprint nodes can be seen below: 
 
-![FastNoise wrapper blueprint nodes](https://github.com/Rockam/FastNoise-UE4-Wrapper/blob/master/Blueprint_nodes.jpg "FastNoise wrapper blueprint nodes")
+![FastNoise wrapper blueprint nodes](https://github.com/Rockam/FastNoise-UE4-Wrapper/blob/master/Blueprint_nodes.JPG "FastNoise wrapper blueprint nodes")
 
 ### C++ 
 
