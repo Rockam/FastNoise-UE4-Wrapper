@@ -2,7 +2,7 @@
 
 Unreal Engine 4 intuitive, open source and blueprint-friendly noise generation library coded on C++. It uses [Auburns's FastNoise library](https://github.com/Auburns/FastNoise).
 
-An implementation for UE4 was already done by midgen, it's called [UnrealFastNoise](https://github.com/midgen/UnrealFastNoise).
+**I've released a free plugin on the UE4 marketplace called [Fast Noise Generator (FNG)](https://www.unrealengine.com/marketplace/en-US/product/527737f42da544e9abf8607a40495fbd), check it out!!!**
 
 ## Usage
 
